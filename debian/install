@@ -1,0 +1,7 @@
+*rb /usr/share/redmine/plugins/redmine_base_deface
+app /usr/share/redmine/plugins/redmine_base_deface
+Gemfile /usr/share/redmine/plugins/redmine_base_deface
+# db /usr/share/redmine/plugins/redmine_base_deface
+# lib /usr/share/redmine/plugins/redmine_base_deface
+# config /usr/share/redmine/plugins/redmine_base_deface
+# assets/* /usr/share/redmine/public/plugin_assets/redmine_base_deface

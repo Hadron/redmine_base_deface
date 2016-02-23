@@ -1,0 +1,14 @@
+Source: redmine-plugin-base-deface
+Section: ruby
+Priority: optional
+Maintainer: Klee Dienes <klee@debian.org>
+Build-Depends: debhelper (>= 9), quilt
+Standards-Version: 3.9.6
+Homepage: https://github.com/jbbarth/redmine_base_deface
+
+Package: redmine-plugin-base-deface
+Architecture: all
+Depends: ${misc:Depends}, redmine (>= 3)
+Description: Manages view modifications in plugins.
+ Integrates with the deface gem to manage view modifications in
+ plugins.
